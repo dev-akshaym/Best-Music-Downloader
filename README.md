@@ -10,6 +10,15 @@ TapToLoad allows you to download songs and music for free with ease. Discover ho
 - **Latest Music**: Stay updated with the latest hits and trending songs.
 - **No Hassle**: Simple and user-friendly interface for seamless downloads.
 
+**How to Use**
+Step 1: Search for Music
+Visit [taptoload.com](https://taptoload.com)
+Enter the name of the song or YouTube URL you wish to download.
+
+Step 2: Download Music
+Choose the audio format (MP3, etc.).
+
+Click the "Download" button, and your song will start downloading instantly.
 ## Installation
 
 ### Web Application
